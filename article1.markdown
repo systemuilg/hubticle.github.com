@@ -26,5 +26,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###LG G2 Intro video
 <video src="LG_G2.mp4" width="320" height="200" controls preload></video>
-
-<video src="LG_G2.mp4" width="1320" height="1200" controls preload></video>
