@@ -1,6 +1,6 @@
 # 1. GitHub blog (SystemUI - LGE)
 
-![alt text](https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/Android-KitKat.jpg "Logo Title Text 1")
+![alt text](https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/Android-KitKat.jpg)
 
 ##Contents
 
