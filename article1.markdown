@@ -1,4 +1,5 @@
 # 1. GitHub blog (SystemUI - LGE)
+![Image](kk.png?raw=true)
 
 ##Contents
 
@@ -13,4 +14,3 @@
     $ git remote add upstream git@github.com:hubticle/hubticle.github.com.git
     $ etc
 
-![Image](Android-KitKat.jpg?raw=true)
