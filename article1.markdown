@@ -1,4 +1,4 @@
-# 1. GitHub blog (SystemUI - LGE)
+x# 1. GitHub blog (SystemUI - LGE)
 
 ![Image](kk1.png?raw=true)
 
@@ -7,6 +7,8 @@
 ![Image](kk3.png?raw=true)
 
 ![Image](shadow.png?raw=true)
+
+![Image](android1.png?raw=true)
 
 ##Contents
 
