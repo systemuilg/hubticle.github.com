@@ -17,15 +17,20 @@
 
 ##Video references
 
-###LG G Flex : Self Healing & Durability
+####LG G Flex : Self Healing & Durability
 Click on the image to see the video (YouTube).
 
 <a href="http://www.youtube.com/watch?v=SphEAlsrRoo" target="_blank"><img src="https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/gflex.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-###LG G2 Intro video
+####LG G2 Intro video
 <video src="LG_G2.mp4" width="320" height="200" controls preload></video>
 
-test
-______
+##Tables
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
