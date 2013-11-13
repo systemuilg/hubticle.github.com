@@ -10,6 +10,8 @@
 
 ![Image](android.png?raw=true)
 
+![Image](figure.png?raw=true)
+
 ##Contents
 
 1. Volume slider
