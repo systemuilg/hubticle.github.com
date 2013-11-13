@@ -31,9 +31,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ##Tables
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
+Markdown | Less | Pretty	
+--- | --- | ---	
+*Still* | `renders` | **nicely**	
 1 | 2 | 3
 
 
