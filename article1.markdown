@@ -13,4 +13,4 @@
     $ git remote add upstream git@github.com:hubticle/hubticle.github.com.git
     $ etc
 
-![Image](shadow.png?raw=true)
+![Image](Android-KitKat.jpg?raw=true)
