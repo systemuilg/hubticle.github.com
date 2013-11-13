@@ -45,10 +45,18 @@ Markdown | Less | Pretty
 |   |   |   |   |   |
 
 
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+
+
+| Item      |  Value | Qty  |
+| :-------- | ------:| :--: |
+| Computer  | \$1600 |  5   |
+| Phone     |   \$12 |  12  |
+| Pipe      |    \$1 | 234  |
 
