@@ -1,5 +1,5 @@
 # 1. GitHub blog (SystemUI - LGE)
-![Image](shadow.png?raw=true)
+![Image](kk1.png?raw=true)
 
 ##Contents
 
