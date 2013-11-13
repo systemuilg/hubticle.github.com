@@ -23,7 +23,6 @@ Click on the image to see the video.
 <a href="http://www.youtube.com/watch?v=SphEAlsrRoo" target="_blank"><img src="https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/gflex.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-AddType video/mp4 .mp4
 
 ###LG G2 Intro video
 <video src="LG_G2.mp4" width="320" height="200" controls preload></video>
