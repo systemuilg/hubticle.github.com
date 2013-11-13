@@ -1,6 +1,6 @@
 # 1. GitHub blog (SystemUI - LGE)
 ![Image](kk1.png?raw=false)
-![Image](kk1.png?raw=false)
+![Image](kk3.png?raw=false)
 ![Image](shadow.png?raw=true)
 
 ##Contents
