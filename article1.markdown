@@ -12,6 +12,10 @@
 
 ![Image](figure.png?raw=true)
 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 ##Contents
 
 1. Volume slider
