@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/Android-KitKat.jpg)
 
+---
+
 ##Contents
 
 1. Volume slider
