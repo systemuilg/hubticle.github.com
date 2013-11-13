@@ -37,3 +37,30 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
+Heading-a
+==========
+
+---text---
+
+Heading-b
+------------
+
+--- text ---
+
+Heading-c
+----------
+
+--- text---
+
+Heading-d
+=======
+
+--- text----
+
+Heading-e
+---
+
+...
+
+
+
