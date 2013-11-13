@@ -23,7 +23,7 @@
 > Click on the image to see the video (YouTube).
 
 <a href="http://www.youtube.com/watch?v=SphEAlsrRoo" target="_blank"><img src="https://github.com/systemuilg/systemuilg.github.com/raw/master/resources/gflex.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="LG G Flex" width="240" height="180" border="10" /></a>
 
 
 ####LG G2 Intro video
