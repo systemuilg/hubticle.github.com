@@ -84,12 +84,25 @@ Markdown | Less | Pretty
   [3]: http://search.msn.com/    "MSN Search"
 
 --------
+----
 
-The syntax looks like:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
- col 2 is      | centered      |   $12 |
- zebra stripes | are neat      |    $1 |
-While 
+## Markdown plus tables ##
+
+| Header | Header | Right  |
+| ------ | ------ | -----: |
+|  Cell  |  Cell  |   $10  |
+|  Cell  |  Cell  |   $20  |
+
+* Outer pipes on tables are optional
+* Colon used for alignment (right versus left)
+
+## Markdown plus definition lists ##
+
+Bottled water
+: $ 1.25
+: $ 1.55 (Large)
+
+Milk
+Pop
+: $ 1.75
