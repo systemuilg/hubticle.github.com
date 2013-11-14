@@ -83,3 +83,23 @@ Markdown | Less | Pretty
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
+--------
+
+1. In Ruby you can map like this:
+
+        ['a', 'b'].map { |x| x.uppercase }
+
+2. In Rails, you can do a shortcut:
+
+        ['a', 'b'].map(&:uppercase)
+
+Some people seem to like definition lists
+
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+</dl>
+
+
