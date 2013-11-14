@@ -6,9 +6,11 @@
 
 ##Contents
 
+<pre>
 1. Volume slider
 2. QSlide
 3. QRemote
+</pre>
 
 ####Resources
   
@@ -54,11 +56,13 @@ Markdown | Less | Pretty
 
 
 <table>
+
 | Item      |  Value | Qty  |
 | :-------- | ------:| :--: |
 | Computer  | \$1600 |  5   |
 | Phone     |   \$12 |  12  |
 | Pipe      |    \$1 | 234  |
+
 </table>
 
 
