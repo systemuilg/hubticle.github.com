@@ -53,16 +53,25 @@ Markdown | Less | Pretty
 | col 3 is | right-aligned |    $1 |
 
 
-
+<table>
 | Item      |  Value | Qty  |
 | :-------- | ------:| :--: |
 | Computer  | \$1600 |  5   |
 | Phone     |   \$12 |  12  |
 | Pipe      |    \$1 | 234  |
+</table>
 
-dog | bird | cat
-:-- | :--: | --:
-foo | foo  | foo
-bar | bar  | bar
-baz | baz  | baz
 
+<pre>
+             ,-. 
+    ,     ,-.   ,-. 
+   / \   (   )-(   ) 
+   \ |  ,.>-(   )-< 
+    \|,' (   )-(   ) 
+     Y ___`-'   `-' 
+     |/__/   `-' 
+     | 
+     | 
+     |    -hrr- 
+  ___|_____________ 
+</pre>
