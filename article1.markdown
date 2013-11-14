@@ -111,3 +111,22 @@ Bottled water
 Milk
 Pop
 : $ 1.75
+
+----------------------------
+----------------------------
+
+<h2>Table of Contents</h2>
+<ol>
+   <li>HTML Structure</li>
+   <li>CSS Files</li>
+   <li>Javascript Files</li>
+   <li>PSD Files</li>
+   <li>Theme Styles</li>
+   <li>Tweaking Javascript</li>
+   <li>Tweaking CSS</li>
+   <li>Browser Compatibility</li>
+</ol>
+<hr />
+
+------------------------
+
