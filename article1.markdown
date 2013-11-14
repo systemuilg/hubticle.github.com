@@ -33,27 +33,28 @@ alt="LG G Flex" width="240" height="180" border="10" /></a>
 
 ##Tables
 
+<table>
 Markdown | Less | Pretty	
 --- | --- | ---	
 *Still* | `renders` | **nicely**	
 1 | 2 | 3
+</table>
 
-
-
+<table>
 |   |   |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
+</table>
 
-
-
+<table>
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
-
+</table>
 
 <table>
 
