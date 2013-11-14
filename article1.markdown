@@ -85,21 +85,38 @@ Markdown | Less | Pretty
 
 --------
 
-1. In Ruby you can map like this:
+I am a robot
+------------
 
-        ['a', 'b'].map { |x| x.uppercase }
+Maybe you want to print `robot` to the console 1000 times. Why not?
 
-2. In Rails, you can do a shortcut:
+    def robot_invasion
+      puts("robot " * 1000)
+    end
 
-        ['a', 'b'].map(&:uppercase)
+You see, that was formatted as code because it's been indented by four spaces.
 
-Some people seem to like definition lists
+How about we throw some angle braces and ampersands in there?
 
-<dl>
-  <dt>Lower cost</dt>
-  <dd>The new version of this product costs significantly less than the previous one!</dd>
-  <dt>Easier to use</dt>
-  <dd>We've changed the product so that it's much easier to use!</dd>
-</dl>
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
 
+Table for two
+-------------
+
+<table>
+  <tr>
+    <th>ID</th><th>Name</th><th>Rank</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+  </tr>
+  <tr>
+    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
+
+Crazy linking action
+--------------------
 
