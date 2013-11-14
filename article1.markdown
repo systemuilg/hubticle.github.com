@@ -85,12 +85,8 @@ Markdown | Less | Pretty
 
 --------
 
-<div markdown="1" style="width:300px">
-
-| Item      |  Value | Qty  |
-| :-------- | ------:| :--: |
-| Computer  | \$1600 |  5   |
-| Phone     |   \$12 |  12  |
-| Pipe      |    \$1 | 234  |
-
-</div>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+ col 2 is      | centered      |   $12 |
+ zebra stripes | are neat      |    $1 |
