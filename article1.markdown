@@ -85,6 +85,7 @@ Markdown | Less | Pretty
 
 --------
 
+<div markdown="1" style="width:300px">
 
 | Item      |  Value | Qty  |
 | :-------- | ------:| :--: |
@@ -92,4 +93,4 @@ Markdown | Less | Pretty
 | Phone     |   \$12 |  12  |
 | Pipe      |    \$1 | 234  |
 
-
+</div>
