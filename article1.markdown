@@ -19,6 +19,24 @@
     $ git remote add upstream git@github.com:hubticle/hubticle.github.com.git
     $ etc
 
+----------------------------
+----------------------------
+
+<h2>Table of Contents</h2>
+<ol>
+   <li>HTML Structure</li>
+   <li>CSS Files</li>
+   <li>Javascript Files</li>
+   <li>PSD Files</li>
+   <li>Theme Styles</li>
+   <li>Tweaking Javascript</li>
+   <li>Tweaking CSS</li>
+   <li>Browser Compatibility</li>
+</ol>
+<hr />
+
+------------------------
+
 ##Video references
 
 ####LG G Flex : Self Healing & Durability
@@ -112,21 +130,5 @@ Milk
 Pop
 : $ 1.75
 
-----------------------------
-----------------------------
 
-<h2>Table of Contents</h2>
-<ol>
-   <li>HTML Structure</li>
-   <li>CSS Files</li>
-   <li>Javascript Files</li>
-   <li>PSD Files</li>
-   <li>Theme Styles</li>
-   <li>Tweaking Javascript</li>
-   <li>Tweaking CSS</li>
-   <li>Browser Compatibility</li>
-</ol>
-<hr />
-
-------------------------
 
