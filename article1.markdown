@@ -31,7 +31,7 @@ alt="LG G Flex" width="240" height="180" border="10" /></a>
 ####LG G2 Intro video
 <video src="LG_G2.mp4" width="320" height="200" controls preload></video>
 
-##Tables
+##Testing Tables
 
 <table>
 Markdown | Less | Pretty	
@@ -85,38 +85,5 @@ Markdown | Less | Pretty
 
 --------
 
-I am a robot
-------------
 
-Maybe you want to print `robot` to the console 1000 times. Why not?
-
-    def robot_invasion
-      puts("robot " * 1000)
-    end
-
-You see, that was formatted as code because it's been indented by four spaces.
-
-How about we throw some angle braces and ampersands in there?
-
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
-
-Table for two
--------------
-
-<table>
-  <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
-</table>
-
-Crazy linking action
---------------------
 
