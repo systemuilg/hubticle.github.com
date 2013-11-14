@@ -83,8 +83,13 @@ Markdown | Less | Pretty
   [2]: http://search.yahoo.com/  "Yahoo Search"
   [3]: http://search.msn.com/    "MSN Search"
 
---------
+--------------------------
 ----
+
+<div class="custom-class" markdown="1">
+This is a div wrapping some Markdown plus.  Without the DIV attribute, it ignores the 
+block. 
+</div>
 
 
 ## Markdown plus tables ##
